@@ -1,0 +1,20 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "UnlockedTest",
+            "versionName": "Version 1.0",
+            "versionNumber": "1.0.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "50.0",
+    "packageAliases": {
+        "UnlockedTest": "0Ho4P000000CabCSAS",
+        "UnlockedTest@1.0.0-1": "04t4P000002mbDaQAI",
+        "UnlockedTest@1.0.0-2": "04t4P000002mbDfQAI",
+        "UnlockedTest@1.0.0-3": "04t4P000002mbDkQAI"
+    }
+}
